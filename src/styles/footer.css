@@ -1,0 +1,28 @@
+footer{
+    height: 250px;
+    background: #3c3c3b;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+h4{
+    color: aliceblue;
+    margin-top: 140px;
+}
+
+.social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    align-items: center;
+}
+
+.fa-brands{
+    width: 30px;
+}
